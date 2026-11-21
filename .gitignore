@@ -9,3 +9,5 @@ build/
 .sandbox_home/
 .sandbox_vault/
 .env
+.demo_home/
+.demo_vault/
